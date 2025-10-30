@@ -9,7 +9,7 @@ Conducted a valuation and strategic assessment for Chino’s, a publicly traded 
 - Adjusted public company value  
 
 **Skills Demonstrated:**  
-Valuation modeling, DCF, comparable analysis, Excel modeling, corporate finance.  
+Investment analysis, financial modeling, valuation (DCF and comparables), Excel, forecasting, strategic finance, problem solving
 
 **Files:**  
 - [`Project_Endeavor_Valuation_Model.xlsx`](https://github.com/naysck/Finance-Portfolio-Nays/blob/main/Endeavor/Project%20Endeavor%20%20Valuation%20Summary.xlsx)  
