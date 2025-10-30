@@ -10,7 +10,7 @@ Analyze the three-year financial performance of Scandi Home Furnishings, a U.S.-
 - Cash conversion cycle and industry benchmarking  
 
 **Skills Demonstrated:**  
-Financial statement analysis, ratio interpretation, trend analysis, Excel modeling.  
+Financial analysis and reporting, Excel modeling, accounting principles, ratio analysis, trend interpretation, problem solving
 
 **Files:**  
 - [`[Scandi_Case_Financial_Model.xlsx](https://github.com/naysck/Finance-Portfolio-Nays/blob/main/Scandi/Scandi%20Case%20Financial%20Model.xlsx)`](https://github.com/naysck/Finance-Portfolio-Nays/blob/main/Scandi/Scandi%20Case%20Financial%20Model.xlsx) – Full financial model 
