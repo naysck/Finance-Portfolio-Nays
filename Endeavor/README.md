@@ -12,5 +12,5 @@ Conducted a valuation and strategic assessment for Chino’s, a publicly traded 
 Valuation modeling, DCF, comparable analysis, Excel modeling, corporate finance.  
 
 **Files:**  
-- `Project_Endeavor_Valuation_Model.xlsx`  
+- [`Project_Endeavor_Valuation_Model.xlsx`](https://github.com/naysck/Finance-Portfolio-Nays/blob/main/Endeavor/Project%20Endeavor%20%20Valuation%20Summary.xlsx)  
 - [`Project Endeavor Case Background.pdf`](https://github.com/naysck/Finance-Portfolio-Nays/blob/main/Endeavor/Project%20Endeavor%20Case%20Background.pdf)  
