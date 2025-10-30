@@ -13,4 +13,4 @@ Corporate finance, capital budgeting, Excel modeling, investment evaluation.
 
 **Files:**  
 - `Fonderia_di_Torino_Investment_Analysis_Model.xlsx`  
-- `Fonderia Di Torino Case Background.pdf`  
+- [`Fonderia Di Torino Case Background.pdf` ](https://github.com/naysck/Finance-Portfolio-Nays/blob/main/Fonderia/Fonderia%20Di%20Torino%20Case%20Background.pdf) 
