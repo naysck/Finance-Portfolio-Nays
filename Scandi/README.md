@@ -14,4 +14,4 @@ Financial statement analysis, ratio interpretation, trend analysis, Excel modeli
 
 **Files:**  
 - `[Scandi_Case_Financial_Model.xlsx](https://github.com/naysck/Finance-Portfolio-Nays/blob/main/Scandi/Scandi%20Case%20Financial%20Model.xlsx)` – Full financial model 
-- `Scandi Home Case (Case only).pdf` – Case background and requirements  
+- [`Scandi Home Case (Case only).pdf`](https://github.com/naysck/Finance-Portfolio-Nays/blob/main/Scandi/Scandi%20Home%20Case%20(Case%20only)%20(1).pdf) – Case background  
