@@ -9,7 +9,7 @@ Evaluate the investment decision for Fonderia di Torino, an Italian metal castin
 - Sensitivity analysis (labor cost and inflation)  
 
 **Skills Demonstrated:**  
-Capital budgeting, Excel modeling, investment evaluation.  
+Financial modeling, budgeting and forecasting, capital budgeting, NPV and IRR, WACC calculation, Excel, problem solving
 
 **Files:**  
 - [`Fonderia_di_Torino_Investment_Analysis_Model.xlsx`](https://github.com/naysck/Finance-Portfolio-Nays/blob/main/Fonderia/Fonderia%20Di%20Torina%20Investment%20Analysis%20Model.xlsx)  
